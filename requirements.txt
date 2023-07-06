@@ -1,0 +1,6 @@
+selenium
+requests
+webdriver_manager
+python-dotenv
+beautifulsoup4
+firebase-admin
