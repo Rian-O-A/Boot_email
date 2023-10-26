@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dev Shell</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="src/js/pagination.js"></script>
+
+    <!-- Fav Icon -->
+    <link rel="icon" type="image/x-icon" href="src/images/casca.png">
+
+    <!-- Links -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="src/css/style.css">
+
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        
+    </header>
+
+    <!-- Main -->
+    <main>
+        <div class="container-fluid bg-dark div-main">
+
+            <div class="d-flex align-items-start" style="height: 100vh;">
+
+                <!-- Buttons -->
+
+                <div class="nav flex-column nav-pills my-auto mx-auto div-menus">
+
+                    <div class="nav flex-column nav-pills" id="v-pills-tab buttons" role="tablist"
+                        aria-orientation="vertical">
+
+                        <button class="nav-link" id="v-pills-home-tab" data-bs-toggle="pill"
+                            data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home"
+                            aria-selected="true" style="border-radius: 50%; padding: 0px;">
+
+                            <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M6.99935 24.4987C6.35768 24.4987 5.80857 24.2704 5.35202 23.8139C4.89468 23.3565 4.66602 22.807 4.66602 22.1654V11.6654C4.66602 11.2959 4.74885 10.9459 4.91452 10.6154C5.0794 10.2848 5.30768 10.0126 5.59935 9.7987L12.5993 4.5487C12.8132 4.39314 13.0368 4.27648 13.2702 4.1987C13.5035 4.12092 13.7466 4.08203 13.9993 4.08203C14.2521 4.08203 14.4952 4.12092 14.7285 4.1987C14.9618 4.27648 15.1855 4.39314 15.3993 4.5487L22.3993 9.7987C22.691 10.0126 22.9197 10.2848 23.0853 10.6154C23.2502 10.9459 23.3327 11.2959 23.3327 11.6654V22.1654C23.3327 22.807 23.1044 23.3565 22.6478 23.8139C22.1905 24.2704 21.641 24.4987 20.9993 24.4987H16.3327V16.332H11.666V24.4987H6.99935Z"
+                                    fill="#D9D9D9" />
+                            </svg>
+
+                        </button>
+
+                        <button class="nav-link active" id="v-pills-profile-tab" data-bs-toggle="pill"
+                            data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile"
+                            aria-selected="false" style="border-radius: 50%; padding: 0px;">
+                            <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M22.1667 22.1667V18.6667H5.83333V22.1667H22.1667ZM22.1667 16.3333V11.6667H5.83333V16.3333H22.1667ZM22.1667 9.33333V5.83333H5.83333V9.33333H22.1667ZM5.83333 24.5C5.19167 24.5 4.64217 24.2717 4.18483 23.8152C3.72828 23.3578 3.5 22.8083 3.5 22.1667V5.83333C3.5 5.19167 3.72828 4.64217 4.18483 4.18483C4.64217 3.72828 5.19167 3.5 5.83333 3.5H22.1667C22.8083 3.5 23.3578 3.72828 23.8152 4.18483C24.2717 4.64217 24.5 5.19167 24.5 5.83333V22.1667C24.5 22.8083 24.2717 23.3578 23.8152 23.8152C23.3578 24.2717 22.8083 24.5 22.1667 24.5H5.83333Z"
+                                    fill="white" />
+                            </svg>
+                        </button>
+
+                        <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill"
+                            data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages"
+                            aria-selected="false" style="border-radius: 50%; padding: 0px;"></button>
+
+                        <button class="nav-link" id="v-pills-disabled-tab" data-bs-toggle="pill"
+                            data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled"
+                            aria-selected="false" style="border-radius: 50%; padding: 0px;"></button>
+
+                    </div>
+
+                    <!-- End-Btns -->
+                    <div class="d-flex flex-column gap-4">
+
+                        <div id="bototes">
+                            <!-- Wpp -->
+                            <button class="nav-link bg-wpp border border-333 border-3 sendButtons" id="paoDeBanana"
+                                type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false"
+                                style="border-radius: 50%; padding: 0px; background-color: #333;">
+                                <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path class="wpp-svg"
+                                        d="M22.2259 5.7271C21.1563 4.64668 19.8823 3.79005 18.4782 3.20716C17.074 2.62427 15.5679 2.3268 14.0476 2.3321C7.67758 2.3321 2.48591 7.52377 2.48591 13.8938C2.48591 15.9354 3.02258 17.9188 4.02591 19.6688L2.39258 25.6654L8.51758 24.0554C10.2092 24.9771 12.1109 25.4671 14.0476 25.4671C20.4176 25.4671 25.6092 20.2754 25.6092 13.9054C25.6092 10.8138 24.4076 7.90877 22.2259 5.7271ZM14.0476 23.5071C12.3209 23.5071 10.6292 23.0404 9.14758 22.1654L8.79758 21.9554L5.15758 22.9121L6.12591 19.3654L5.89258 19.0038C4.93328 17.4719 4.42391 15.7012 4.42258 13.8938C4.42258 8.5971 8.73924 4.28043 14.0359 4.28043C16.6026 4.28043 19.0176 5.28377 20.8259 7.10377C21.7213 7.99506 22.4309 9.05521 22.9135 10.2228C23.3962 11.3903 23.6423 12.6421 23.6376 13.9054C23.6609 19.2021 19.3442 23.5071 14.0476 23.5071ZM19.3209 16.3204C19.0292 16.1804 17.6059 15.4804 17.3492 15.3754C17.0809 15.2821 16.8942 15.2354 16.6959 15.5154C16.4976 15.8071 15.9492 16.4604 15.7859 16.6471C15.6226 16.8454 15.4476 16.8688 15.1559 16.7171C14.8642 16.5771 13.9309 16.2621 12.8342 15.2821C11.9709 14.5121 11.3992 13.5671 11.2242 13.2754C11.0609 12.9838 11.2009 12.8321 11.3526 12.6804C11.4809 12.5521 11.6442 12.3421 11.7842 12.1788C11.9242 12.0154 11.9826 11.8871 12.0759 11.7004C12.1692 11.5021 12.1226 11.3388 12.0526 11.1988C11.9826 11.0588 11.3992 9.63543 11.1659 9.0521C10.9326 8.4921 10.6876 8.5621 10.5126 8.55043H9.95258C9.75424 8.55043 9.45091 8.62043 9.18258 8.9121C8.92591 9.20377 8.17924 9.90377 8.17924 11.3271C8.17924 12.7504 9.21758 14.1271 9.35758 14.3138C9.49758 14.5121 11.3992 17.4288 14.2926 18.6771C14.9809 18.9804 15.5176 19.1554 15.9376 19.2838C16.6259 19.5054 17.2559 19.4704 17.7576 19.4004C18.3176 19.3188 19.4726 18.7004 19.7059 18.0238C19.9509 17.3471 19.9509 16.7754 19.8692 16.6471C19.7876 16.5188 19.6126 16.4604 19.3209 16.3204Z"
+                                        fill="#D9D9D9" />
+                                </svg>
+                            </button>
+
+                            <!-- Email -->
+                            <button class="nav-link border border-333 border-3 sendButtons" id="paoDeBanana"
+                                type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false"
+                                style="border-radius: 50%; padding: 0px; background-color: #333;">
+                                <svg width="25" height="25" viewBox="0 0 25 22" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path class="email-svg"
+                                        d="M13.1673 18.168C13.1673 17.7713 13.214 17.3863 13.2723 17.0013H2.66732V5.33464L12.0007 11.168L21.334 5.33464V11.273C22.174 11.413 22.9557 11.7046 23.6673 12.113V3.0013C23.6673 1.71797 22.6173 0.667969 21.334 0.667969H2.66732C1.38398 0.667969 0.333984 1.71797 0.333984 3.0013V17.0013C0.333984 18.2846 1.38398 19.3346 2.66732 19.3346H13.2723C13.214 18.9496 13.1673 18.5646 13.1673 18.168ZM21.334 3.0013L12.0007 8.83463L2.66732 3.0013H21.334ZM18.709 21.8546L15.5007 18.3546L16.854 17.0013L18.709 18.8563L22.8973 14.668L24.2507 16.313L18.709 21.8546Z"
+                                        fill="#333333" />
+                                </svg>
+                            </button>
+                        </div>
+
+                        <hr style="border: 2px solid black; border-radius: 50px; margin: 0; ">
+
+                        <!-- Close -->
+                        <button type="button" class="btn btn-primary active"
+                            style="width: 45px; height: 45px; border-radius: 50%; background-color: #333; border: 3px solid transparent; padding: 0px;">
+                            <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M5.83333 12.832H15.1667V15.1654H5.83333V18.6654L0 13.9987L5.83333 9.33203V12.832ZM4.66667 20.9987H7.826C9.17313 22.1868 10.8345 22.9609 12.6106 23.2281C14.3868 23.4954 16.2024 23.2445 17.8395 22.5055C19.4766 21.7664 20.8657 20.5707 21.8401 19.0618C22.8145 17.5529 23.3328 15.7949 23.3328 13.9987C23.3328 12.2025 22.8145 10.4445 21.8401 8.93558C20.8657 7.42667 19.4766 6.23096 17.8395 5.49195C16.2024 4.75293 14.3868 4.502 12.6106 4.76927C10.8345 5.03653 9.17313 5.81064 7.826 6.9987H4.66667C5.75244 5.54874 7.16139 4.37196 8.78158 3.56187C10.4018 2.75177 12.1886 2.33067 14 2.33203C20.4435 2.33203 25.6667 7.5552 25.6667 13.9987C25.6667 20.4422 20.4435 25.6654 14 25.6654C12.1886 25.6667 10.4018 25.2456 8.78158 24.4355C7.16139 23.6254 5.75244 22.4487 4.66667 20.9987Z"
+                                    fill="#D9D9D9" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Telas -->
+                <div class="tab-content imaginacao my-auto mx-auto" id="v-pills-tabContent">
+
+                    <div class="tab-pane fade conatiner-fluid containerzim" id="v-pills-home" role="tabpanel"
+                        aria-labelledby="v-pills-home-tab" tabindex="0" style="color: white;">
+
+                        
+
+                        <div class="container-fluid containerzim">
+
+
+                        </div>
+
+                    </div>
+
+                    <div class="tab-pane fade show active conatiner-fluid containerzim" id="v-pills-profile"
+                        role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0" style="color: white;">
+
+                        <div class="container-fluid containerzim">
+
+
+                            <div class="container-fluid enois">
+
+                                <!-- UF - Cidade -->
+                                <div class="container-fluid pesquisa pesquisa-1">
+
+                                    <select class="form-select" aria-label="Default select example"
+                                        style="width: 115px; border-radius: 25px; height: 50%; text-align-last:center; font-size: 16px; display: flex;  font-weight: 500; align-items: center;">
+                                        <option value="1">ES</option>
+                                        <option value="2">RJ</option>
+                                        <option value="3">MG</option>
+                                    </select>
+
+                                    <select class="form-select" aria-label="Default select example"
+                                        style="width: 35%; border-radius: 25px; height: 50%; text-align-last:center; font-size: 16px; letter-spacing: 2px; display: flex; font-weight: 500;">
+                                        <option value="1">Vila Velha</option>
+                                        <option value="2">Vitória</option>
+                                        <option value="3">Serra</option>
+                                        <option value="4">Cariacica</option>
+                                    </select>
+                                </div>
+
+                                <!-- Search -->
+                                <div class="container-fluid pesquisa">
+
+                                    <nav class="navbar" style="height: 100%;">
+
+                                        <div class="container-fluid" style="height: 100%;">
+
+                                            <form class="d-flex" role="search"
+                                                style="width: 100%; gap: 30px; justify-content: center;">
+
+                                                <input class="form-control" type="search" placeholder="Search"
+                                                    aria-label="Search"
+                                                    style="width: 70%; border-radius: 25px; height: 39px;">
+
+                                                <button class="btn-pesquisa" type="submit">
+
+                                                    <svg class="icon-search" width="40" height="40" viewBox="0 0 48 48"
+                                                        fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M37.8 40.6L26.6 29.4C25.6 30.2 24.45 30.8333 23.15 31.3C21.85 31.7667 20.4667 32 19 32C15.3667 32 12.292 30.742 9.776 28.226C7.25867 25.7087 6 22.6333 6 19C6 15.3667 7.25867 12.2913 9.776 9.774C12.292 7.258 15.3667 6 19 6C22.6333 6 25.7087 7.258 28.226 9.774C30.742 12.2913 32 15.3667 32 19C32 20.4667 31.7667 21.85 31.3 23.15C30.8333 24.45 30.2 25.6 29.4 26.6L40.65 37.85C41.0167 38.2167 41.2 38.6667 41.2 39.2C41.2 39.7333 41 40.2 40.6 40.6C40.2333 40.9667 39.7667 41.15 39.2 41.15C38.6333 41.15 38.1667 40.9667 37.8 40.6ZM19 28C21.5 28 23.6253 27.1253 25.376 25.376C27.1253 23.6253 28 21.5 28 19C28 16.5 27.1253 14.3747 25.376 12.624C23.6253 10.8747 21.5 10 19 10C16.5 10 14.3747 10.8747 12.624 12.624C10.8747 14.3747 10 16.5 10 19C10 21.5 10.8747 23.6253 12.624 25.376C14.3747 27.1253 16.5 28 19 28Z"
+                                                            fill="#D9D9D9" />
+                                                    </svg>
+
+                                                </button>
+                                            </form>
+                                        </div>
+                                    </nav>
+
+                                </div>
+
+                            </div>
+
+                            <!-- Tabela -->
+                            <div class="container-fluid enois2" style="--bs-gutter-x: 0rem;">
+
+                                <div class="tableFixHead">
+
+                                    <table class="table table-dark table-hover table-responsive overflow-visible" style="
+                                text-align: center; 
+                                gap:15px; 
+                                border-color: #333;
+                                --bs-table-bg: #D9D9D9; margin-top: 1%; 
+                                --bs-table-color: #333; font-weight: 700;
+                                height: 300px;
+                                ">
+                                        <thead>
+                                            <th scope="row">Nome</th>
+                                            <th colspan="2">Telefone</td>
+                                            <th>Email</th>
+                                            <th colspan="2">Site</td>
+                                            <th>Status</th>
+                                        </thead>
+
+                                        <tbody>
+
+                                        </tbody>
+
+                                    </table>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="tab-pane fade conatiner-fluid containerzim" id="v-pills-disabled" role="tabpanel"
+                        aria-labelledby="v-pills-disabled-tab" tabindex="0">
+
+                        <div class="container-fluid containerzim">
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="tab-pane fade conatiner-fluid containerzim" id="v-pills-messages" role="tabpanel"
+                        aria-labelledby="v-pills-messages-tab" tabindex="0">
+
+                        <div class="container-fluid containerzim">
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="tab-pane fade conatiner-fluid containerzim" id="v-pills-settings" role="tabpanel"
+                        aria-labelledby="v-pills-settings-tab" tabindex="0">
+
+                        <div class="container-fluid containerzim">
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <!-- Footes -->
+    <footer>
+        
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+        integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+        integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+
+    <script src="src/js/main.js"></script>
+
+</body>
+
+</html>
