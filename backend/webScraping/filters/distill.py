@@ -1,33 +1,35 @@
+class DataFormatter:
+    def __init__(self):
+        self.listName = []
 
-class Distill:
-    
-    def nameList(dataList): # formatar 
-        listName = []
+    def format_data(self, item):
+        formatted_data = {"Nome": item[0]}
+        
+        if len(item) == 3:
+            formatted_data.update(self._format_contact_data(item[1], item[2]))
+
+        elif len(item) == 4:
+            formatted_data["Endereco"] = item[1]
+            formatted_data.update(self._format_contact_data(item[2], item[3]))
+
+        self.listName.append(formatted_data)
+
+    def _format_contact_data(self, data1, data2):
+        if '(' in data1:
+            data1 = data1.replace("(", "").replace(")", "").replace("-", "").replace(' ', '')
+            return {"Tel": data1, "Site": data2}
+        elif data1.isdigit():
+            return {"Tel": data1, "Site": data2}
+        else:
+            return {"Endereco": data1, "Site": data2}
+
+    def process_data(self, dataList):
         for item in dataList:
-            nomear = {}
-            if len(item) == 3:
-                if item[-1] != None:
-                    nomear["Nome"] = item[0]
-                    if '(' in item[1]:
-                        nomear["Tel"] = item[1].replace("(", "").replace(")", "").replace("-", "").replace(' ', '')
-                    else:
-                        nomear["Endereco"] = item[1]
-                        
-                    nomear["Site"] = item[2]
-                    listName.append(nomear)
+            if len(item) in (3, 4) and item[-1] is not None:
+                self.format_data(item)
 
-            elif len(item) == 4:
-                nomear["Nome"] = item[0]
-                nomear["Endereco"] = item[1]
-                if '(' in item[2]:
-                    nomear["Tel"] = item[2].replace("(", "").replace(")", "").replace("-", "").replace(' ', '')
-                elif item[2].isdigit():
-                    nomear["Tel"] = item[2]
-                nomear["Site"] = item[3]
-                listName.append(nomear)
-            
-        return listName
-                    
+        return self.listName
+
                     
             
  

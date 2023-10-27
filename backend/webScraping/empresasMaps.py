@@ -8,9 +8,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 
-def pesquisarEmpresas(search, scroll):
+def pesquisarEmpresas(search, max_scroll):
     driver.get("https://www.google.com/maps/")
-    campo_pesquisa = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[3]/div[9]/div[3]/div[1]/div[1]/div/div[2]/form/input[1]')))
+    campo_pesquisa = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#searchboxinput')))
     campo_pesquisa.send_keys(search)
     campo_pesquisa.send_keys(Keys.ENTER)
 
@@ -18,12 +18,18 @@ def pesquisarEmpresas(search, scroll):
 
     # Aguarde até que o elemento do painel lateral seja encontrado
     panel_element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH,"/html/body/div[3]/div[9]/div[9]/div/div/div[1]/div[2]/div/div[1]/div/div/div[2]/div[1]"))
+        EC.presence_of_element_located((By.CSS_SELECTOR,"#QA0Szd > div > div > div.w6VYqd > div.bJzME.tTVLSc > div > div.e07Vkf.kA9KIf > div > div > div.m6QErb.DxyBCb.kA9KIf.dS8AEf.ecceSd > div.m6QErb.DxyBCb.kA9KIf.dS8AEf.ecceSd"))
     )
 
-    for i in range(scroll):
+    for _ in range(max_scroll):
+        # Guarde o tamanho atual da página
+        page_size = driver.execute_script("return document.body.scrollHeight")
+
+        # Role até o final da página
         panel_element.send_keys(Keys.END)
-        sleep(0.5)
+        
+        # Aguarde um curto período de tempo
+        sleep(2)
         
 
     elements = driver.find_elements(By.XPATH, "//*[contains(@class, 'Nv2PK')]")
