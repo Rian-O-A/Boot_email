@@ -1,0 +1,642 @@
+[
+      {
+            "Nome": "Garagem da May",
+            "Endereco": "R. Antônio Gil Veloso",
+            "Tel": "27992324444",
+            "Site": "https://instagram.com/garagem.da.may?igshid=5xul0nwh8afe",
+            "emails": []
+      },
+      {
+            "Nome": "AAM CLEAN LAVAGEM A SECO",
+            "Endereco": "R. José Gomes da Silva, 126",
+            "Tel": "27988118873",
+            "Site": "https://aamclean.servicosgold.com.br/",
+            "emails": []
+      },
+      {
+            "Nome": "Estetica automotiva Alphacarvix",
+            "Endereco": "Rua Paulo Delazare, 62",
+            "Tel": "27998152307",
+            "Site": "https://www.google.com/maps/place/Estetica+automotiva+Alphacarvix/data=!4m7!3m6!1s0xb83dd06b13989d:0x70d27d59f457e5f7!8m2!3d-20.2853893!4d-40.3130199!16s%2Fg%2F11j8kgb_b4!19sChIJnZgTa9A9uAAR9-VX9Fl90nA?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "RDS Higienização",
+            "Endereco": "R. Victorino Cardoso, 220 - Loja 1",
+            "Tel": "27996232268",
+            "Site": "http://rdshigienizacao.com/",
+            "emails": []
+      },
+      {
+            "Nome": "VS Clean Limpeza de Estofado",
+            "Endereco": "R. Anselmo Serrate, 78",
+            "Tel": "27997636967",
+            "Site": "https://vs-clean.negocio.site/?utm_source=gmb&utm_medium=referral",
+            "emails": []
+      },
+      {
+            "Nome": "Impertec Proteção e Conservação",
+            "Endereco": "Av. Nossa Sra. da Penha, 2592",
+            "Tel": "2732003562",
+            "Site": "https://impertecoficial.com.br/",
+            "emails": []
+      },
+      {
+            "Nome": "Lava Jato Ferrari",
+            "Endereco": "Av. Fernando Ferrari, 3205",
+            "Tel": "27998884601",
+            "Site": "https://lava-jato-ferrari.negocio.site/",
+            "emails": []
+      },
+      {
+            "Nome": "Clean Care MA",
+            "Endereco": "Travessa Rui Barbosa I, 65",
+            "Tel": "27981017608",
+            "Site": "https://clean-care-ma.negocio.site/?utm_source=gmb&utm_medium=referral",
+            "emails": []
+      },
+      {
+            "Nome": "Gloss Tok Comésticos Automotivos e cursos",
+            "Endereco": "Av. Maruípe, 1620",
+            "Tel": "2730252464",
+            "Site": "https://gloss-tok-comesticos-automotivos-e.negocio.site/",
+            "emails": []
+      },
+      {
+            "Nome": "GARAGEM ESTÉTICA AUTOMOTIVA - PINTURA,POLIMENTO, VIP, MARTELINHO DE OURO",
+            "Endereco": "R. Astrogildo Romão dos Anjos",
+            "Tel": "27996973201",
+            "Site": "https://www.google.com/maps/place/GARAGEM+EST%C3%89TICA+AUTOMOTIVA+-+PINTURA,POLIMENTO,+VIP,+MARTELINHO+DE+OURO/data=!4m7!3m6!1s0xb819daaeb895e7:0xe67392f1a481d368!8m2!3d-20.2494657!4d-40.2701031!16s%2Fg%2F11h1mg7v77!19sChIJ55W4rtoZuAARaNOBpPGSc-Y?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "TH LAVACAR",
+            "Endereco": "R. Amenófis de Assis, 110",
+            "Tel": "27997478409",
+            "Site": "https://www.google.com/maps/place/TH+LAVACAR/data=!4m7!3m6!1s0xb83d87ca7c8cc7:0x240b20c39771daf6!8m2!3d-20.3171036!4d-40.3092634!16s%2Fg%2F11jtwldz3c!19sChIJx4x8yoc9uAAR9tpxl8MgCyQ?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "START SHOP VITÓRIA CLEAN",
+            "Endereco": "Rodovia Serafim Derenzi, 11247 - Loja 02",
+            "Tel": "27998336894",
+            "Site": "https://startshopvitoriaclean.uppy.app/",
+            "emails": [
+                  "startshop.vitoria@gmail.com"
+            ]
+      },
+      {
+            "Nome": "Vitória Car Care",
+            "Endereco": "R. Construtor Camilo Gianordoli, 475",
+            "Tel": "27999157575",
+            "Site": "https://www.google.com/maps/place/Vit%C3%B3ria+Car+Care/data=!4m7!3m6!1s0xb83d7c9c723c9b:0xf6d03f60f3d4605d!8m2!3d-20.3090269!4d-40.3102022!16s%2Fg%2F1q679lysh!19sChIJmzxynHw9uAARXWDU82A_0PY?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Hermanos Lava Rápido",
+            "Endereco": "Ao Lado do Supermercado Eldorado Próximo ao Recreio dos Olhos - Av. Cel. José Martins de Figueiredo, 875",
+            "Tel": "27997842254",
+            "Site": "https://linktr.ee/hermanos.vix",
+            "emails": []
+      },
+      {
+            "Nome": "DryMobil Car & Service",
+            "Endereco": "Av. Rio Branco, 545",
+            "Tel": "2733458777",
+            "Site": "http://www.drymobil.com.br/",
+            "emails": [
+                  "administrativo@drymobil.com.br"
+            ]
+      },
+      {
+            "Nome": "Império Estética Automotiva",
+            "Endereco": "R. Francisco de Alvarenga Rabelo, 177",
+            "Tel": "27995318847",
+            "Site": "https://instagram.com/imperioesteticaa?igshid=NTc4MTIwNjQ2YQ==",
+            "emails": []
+      },
+      {
+            "Nome": "Kazaclean",
+            "Endereco": "R. Balbina dos Santos",
+            "Tel": "27999158759",
+            "Site": "https://www.google.com/maps/place/Kazaclean/data=!4m7!3m6!1s0xb83d66888820fb:0x8af634a8fa5374d0!8m2!3d-20.3005519!4d-40.3166546!16s%2Fg%2F11xb5jbm4!19sChIJ-yCIiGY9uAAR0HRT-qg09oo?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "DryWash",
+            "Endereco": "R. Victorino Cardoso, 235 - Subsolo",
+            "Tel": "2730263397",
+            "Site": "http://www.drywash.com.br/",
+            "emails": [
+                  "contato@drywash.com.br"
+            ]
+      },
+      {
+            "Nome": "Capricho Serviços Profissionais - Grande Vitória",
+            "Endereco": "R. José Alexandre Buaiz, 300 - 20° andar",
+            "Tel": "27996216829",
+            "Site": "https://maiscapricho.com.br/unidades/vitoria/",
+            "emails": []
+      },
+      {
+            "Nome": "Lava Jato Chegou Lavou",
+            "Endereco": "Av. Mal. Campos, 240",
+            "Tel": "2732220456",
+            "Site": "https://www.google.com/maps/place/Lava+Jato+Chegou+Lavou/data=!4m7!3m6!1s0xb83d7b5d8bb629:0x52f7b30deaff2afa!8m2!3d-20.308681!4d-40.3142933!16s%2Fg%2F1v_ndrgs!19sChIJKbaLXXs9uAAR-ir_6g2z91I?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Acquazero Vitória",
+            "Endereco": "Serviço de limpeza completa de automóveis",
+            "Tel": "27996587289",
+            "Site": "http://www.acquazero.com/",
+            "emails": [
+                  "app@acquazero.com.br"
+            ]
+      },
+      {
+            "Nome": "Solução em Limpeza",
+            "Endereco": "Av. Jerônimo Monteiro, 126",
+            "Tel": "27999143816",
+            "Site": "https://instagram.com/solucaoalimpeza?igshid=YmMyMTA2M2Y=",
+            "emails": []
+      },
+      {
+            "Nome": "Senhora Limpeza Vitória",
+            "Endereco": "Condomínio Edifício Trade Center",
+            "Tel": "27997498008",
+            "Site": "https://www.senhoralimpeza.com/",
+            "emails": [
+                  "fideles@senhoralimpeza.com"
+            ]
+      },
+      {
+            "Nome": "S.O.S.CLEAN*-SERVIÇOS ORGANIZAÇÃO E SOLUÇÃO.",
+            "Endereco": "R. Rui Barbosa, 213",
+            "Tel": "27997719646",
+            "Site": "http://www.sosclean-es.com.br/",
+            "emails": []
+      },
+      {
+            "Nome": "Hauss Estúdio Automotivo",
+            "Endereco": "R. Profa. Ocarlina Drumond de Carvalho, 457",
+            "Tel": "27999912111",
+            "Site": "https://www.google.com/maps/place/Hauss+Est%C3%BAdio+Automotivo/data=!4m7!3m6!1s0xb819f97c6c59f3:0xaaad7eb6f62fda01!8m2!3d-20.2603234!4d-40.3019818!16s%2Fg%2F11vf50z3wc!19sChIJ81lsfPkZuAARAdov9rZ-rao?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Lava-jato Pitstop",
+            "Endereco": "Fechado ⋅ Abre dom. às 08:00",
+            "Site": "https://www.google.com/maps/place/Lava-jato+Pitstop/data=!4m7!3m6!1s0xb83d95745aeeff:0x8fd37442b58a0d9a!8m2!3d-20.3042936!4d-40.3522688!16s%2Fg%2F11f6z7081n!19sChIJ_-5adJU9uAARmg2KtUJ0048?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "REVITALIZA PISOS - Restaurações e Limpeza Profissional Polimento Piso Mármore, granito porcelanato pedra são tomé madeira",
+            "Endereco": "Av. Nossa Sra. dos Navegantes, 87",
+            "Tel": "27997776667",
+            "Site": "http://www.revitaliza.com.br/",
+            "emails": []
+      },
+      {
+            "Nome": "Calmon Serviços",
+            "Endereco": "R. Neves Armond, 140",
+            "Tel": "2733767220",
+            "Site": "https://www.calmonservicos.com.br/contato",
+            "emails": [
+                  "contato@calmonservicos.com.br",
+                  "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+            ]
+      },
+      {
+            "Nome": "Junior Lava Car",
+            "Endereco": "av Rodovia Serafin Derenzi 307 - em Frente ao Santuario, Anexo ao Qued Pizza",
+            "Tel": "2732239898",
+            "Site": "https://www.google.com/maps/place/Junior+Lava+Car/data=!4m7!3m6!1s0xb83d9e1eda9e25:0x7effd72c12254af7!8m2!3d-20.3140838!4d-40.3252471!16s%2Fg%2F1ptzpz5fl!19sChIJJZ7aHp49uAAR90olEizX_34?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Zero Bala Polimentos Martelinho de ouro Estética Autmotiva",
+            "Endereco": "Em Frente Academia Popular da Orla - R. Ciro Vieira da Cunha, 415",
+            "Tel": "27998065805",
+            "Site": "https://www.facebook.com/zerobalapolimentos/",
+            "emails": []
+      },
+      {
+            "Nome": "LIDERANÇA SERVIÇOS FILIAL ESPÍRITO SANTO",
+            "Endereco": "Edif. Jusmar Praça presidente Getúlio vargas 35 - Salas 1101 e 1102",
+            "Tel": "2732235146",
+            "Site": "https://www.google.com/maps/place/LIDERAN%C3%87A+SERVI%C3%87OS+FILIAL+ESP%C3%8DRITO+SANTO/data=!4m7!3m6!1s0xb83da2e9883b6d:0xc00262655f27da90!8m2!3d-20.2970443!4d-40.3101588!16s%2Fg%2F11b6hxtwk9!19sChIJbTuI6aI9uAARkNonX2ViAsA?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Hermanos Centro De Lavagem Automotiva",
+            "Endereco": "Av. Manoel Marquês, 127",
+            "Site": "https://www.google.com/maps/place/Hermanos+Centro+De+Lavagem+Automotiva/data=!4m7!3m6!1s0xb83d5bdcd9fed3:0x36456b6dad90704f!8m2!3d-20.2908519!4d-40.3145645!16s%2Fg%2F11f3cgp338!19sChIJ0_7Z3Fs9uAART3CQrW1rRTY?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Renove Serviços de Limpeza e Conservação",
+            "Endereco": "Av. Jerônimo Monteiro, 490",
+            "Tel": "27992966200",
+            "Site": "http://renoveserv.com.br/",
+            "emails": []
+      },
+      {
+            "Nome": "Rjr Detailer",
+            "Endereco": "R. Dona Maria Rosa, 155 - Lj2",
+            "Tel": "27981812851",
+            "Site": "https://www.google.com/maps/place/Rjr+Detailer/data=!4m7!3m6!1s0xb817e2e1f1b43d:0x3fa222b09262edef!8m2!3d-20.2910702!4d-40.3064608!16s%2Fg%2F11gf9b1vwq!19sChIJPbTx4eIXuAAR7-1ikrAioj8?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "COLECT VITÓRIA",
+            "Endereco": "Av. Vitória, 1990",
+            "Tel": "2734217082",
+            "Site": "http://www.colect.com.br/",
+            "emails": [
+                  "comercial@colect.com.br"
+            ]
+      },
+      {
+            "Nome": "Operação Lava Jato",
+            "Endereco": "Rua Wilson Toledo, Bairro, 270",
+            "Tel": "27988510126",
+            "Site": "https://operacao-lava-jato-limpezadomiciliar.negocio.site/",
+            "emails": []
+      },
+      {
+            "Nome": "Solar Serviços de Conservação e Limpeza",
+            "Endereco": "R. Barão de Monjardim, 245",
+            "Tel": "2732227095",
+            "Site": "https://www.google.com/maps/place/Solar+Servi%C3%A7os+de+Conserva%C3%A7%C3%A3o+e+Limpeza/data=!4m7!3m6!1s0xb83d98a4a09fdb:0xad8e9b229424f795!8m2!3d-20.3186154!4d-40.328638!16s%2Fg%2F1tfpl1nh!19sChIJ25-gpJg9uAARlfcklCKbjq0?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Kioshi Controle de Pragas",
+            "Endereco": "R. Joaquim Leopoldino Lopes, 365",
+            "Tel": "2732231613",
+            "Site": "http://www.kioshi.com.br/",
+            "emails": [
+                  "kioshi@kioshi.com.br"
+            ]
+      },
+      {
+            "Nome": "Bairro da Penha",
+            "Endereco": "Limpeza",
+            "Site": "https://www.google.com/maps/place/Bairro+da+Penha/data=!4m7!3m6!1s0xb817384bd4f6d3:0x11cdf8a653f1abe6!8m2!3d-20.3013225!4d-40.3059007!16s%2Fg%2F11mbnx1tfq!19sChIJ0_bUSzgXuAAR5qvxU6b4zRE?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Sempre Limpo Serviços",
+            "Endereco": "R. Antônio Campos, 707",
+            "Tel": "27999124521",
+            "Site": "https://www.google.com/maps/place/Sempre+Limpo+Servi%C3%A7os/data=!4m7!3m6!1s0xb83c4ef7a362bf:0x19efd3688046c06b!8m2!3d-20.305176!4d-40.3521568!16s%2Fg%2F1tslkzln!19sChIJv2Kj9048uAARa8BGgGjT7xk?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "CR.CLEAN SOLUÇÕES",
+            "Endereco": "R. Sebastião Antônio Costa",
+            "Tel": "27998071675",
+            "Site": "https://instagram.com/_cr.clean?igshid=YmMyMTA2M2Y=",
+            "emails": []
+      },
+      {
+            "Nome": "DOUTOR LIMPEZA & OZÔNIO",
+            "Endereco": "R. Hercília Dias Maciel, 122",
+            "Tel": "27997541569",
+            "Site": "https://www.google.com/maps/place/DOUTOR+LIMPEZA+%26+OZ%C3%94NIO/data=!4m7!3m6!1s0xb83d783d843ddf:0x7bf49f389390f588!8m2!3d-20.3144894!4d-40.3182497!16s%2Fg%2F11jcmgfnz4!19sChIJ3z2EPXg9uAARiPWQkzif9Hs?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "LAVA JATO MASTER OLIOSI",
+            "Endereco": "R. Dep. Clério Vieira Falcão, 208",
+            "Tel": "27988940914",
+            "Site": "https://www.google.com/maps/place/LAVA+JATO+MASTER+OLIOSI/data=!4m7!3m6!1s0xb817bb9c8314bf:0xae201b9ec5e9f1fa!8m2!3d-20.2865108!4d-40.304827!16s%2Fg%2F11y1kfrpp_!19sChIJvxSDnLsXuAAR-vHpxZ4bIK4?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "HIGELIMPE BRASIL",
+            "Endereco": "R. Moxuara",
+            "Tel": "27996146784",
+            "Site": "https://www.facebook.com/profile.php?id=100013716511004",
+            "emails": []
+      },
+      {
+            "Nome": "KM SERVIÇOS GERAIS - ES",
+            "Endereco": "R. Gen. Osório, 127",
+            "Tel": "2730205630",
+            "Site": "http://www.kmservicos.com.br/"
+      },
+      {
+            "Nome": "Elite Serviços Ltda",
+            "Endereco": "R. Neves Armond, 140",
+            "Tel": "2733155169",
+            "Site": "https://www.google.com/maps/place/Elite+Servi%C3%A7os+Ltda/data=!4m7!3m6!1s0xb817d04de1ffbf:0x34d0a60486c9be24!8m2!3d-20.311541!4d-40.3035931!16s%2Fg%2F1tcvkbng!19sChIJv__hTdAXuAARJL7JhgSm0DQ?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "BRAVO SERVIÇOS",
+            "Endereco": "Av. Governador Bley, n°186, Ed Bemge, Sala 1212, 12°Andar",
+            "Tel": "2730975653",
+            "Site": "https://www.google.com/maps/place/BRAVO+SERVI%C3%87OS/data=!4m7!3m6!1s0xb83dec0c951085:0x5d94fa82455f770!8m2!3d-20.3212305!4d-40.3356443!16s%2Fg%2F11j9drr5vf!19sChIJhRCVDOw9uAARcPdVJKhP2QU?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Limpeza e higienização de estofados e Impermeabilização . ALPHA CLEAN",
+            "Endereco": "Curtain and upholstery cleaning service",
+            "Tel": "27997790434",
+            "Site": "https://www.google.com/maps/place/Limpeza+e+higieniza%C3%A7%C3%A3o+de+estofados+e+Impermeabiliza%C3%A7%C3%A3o+.+ALPHA+CLEAN/data=!4m7!3m6!1s0x4d6484acaeeb965:0x81955723fc6a92b0!8m2!3d-20.5021608!4d-34.7043253!16s%2Fg%2F11sf6dh_jd!19sChIJZbnuykpI1gQRsJJq_CNXlYE?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "DRY WASH",
+            "Endereco": "Fechado ⋅ Abre seg. à 00:00",
+            "Site": "https://www.google.com/maps/place/DRY+WASH/data=!4m7!3m6!1s0xb817e5aba3b0f7:0x32f21cee26d4805!8m2!3d-20.2942647!4d-40.3019559!16s%2Fg%2F11g7z9ypds!19sChIJ97Cjq-UXuAARBUht4s4hLwM?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Vip Lava Car",
+            "Endereco": "R. Carlos Romero Marangoni, 380",
+            "Site": "https://www.google.com/maps/place/Vip+Lava+Car/data=!4m7!3m6!1s0xb819ac0e35ac47:0xa9a222a92a9e71c3!8m2!3d-20.2577975!4d-40.2637133!16s%2Fg%2F1ptxt_78c!19sChIJR6w1DqwZuAARw3GeKqkioqk?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Dedetizadora em Vitória ES ( Controle de Pragas Vitória ES )",
+            "Endereco": "R. José Cassiano dos Santos",
+            "Tel": "27999094907",
+            "Site": "https://www.google.com/maps/place/Dedetizadora+em+Vit%C3%B3ria+ES+%28+Controle+de+Pragas+Vit%C3%B3ria+ES+%29/data=!4m7!3m6!1s0xb83d7194f59597:0xd3bd15ec68278cd5!8m2!3d-20.3055054!4d-40.3239582!16s%2Fg%2F1td6tgxy!19sChIJl5X1lHE9uAAR1YwnaOwVvdM?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Higicar - Centro de Higienização Estética e Elétrica Automotiva",
+            "Endereco": "Fechado ⋅ Abre seg. às 08:00",
+            "Site": "https://www.google.com/maps/place/Higicar+-+Centro+de+Higieniza%C3%A7%C3%A3o+Est%C3%A9tica+e+El%C3%A9trica+Automotiva/data=!4m7!3m6!1s0xb817e1a9442871:0x4e83764c50384173!8m2!3d-20.2965401!4d-40.3065768!16s%2Fg%2F11cm3vnwz4!19sChIJcShEqeEXuAARc0E4UEx2g04?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Polimentodepisos.com",
+            "Endereco": "Av. Cezar Hilal, 1477",
+            "Tel": "2730240001",
+            "Site": "https://www.google.com/maps/place/Polimentodepisos.com/data=!4m7!3m6!1s0xb817ddd5ae675f:0x7290df5d26bd1a28!8m2!3d-20.3103333!4d-40.2971297!16s%2Fg%2F1ptxsnttg!19sChIJX2eu1d0XuAARKBq9Jl3fkHI?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "VITOFITAS DISTRIBUIDOR 3M e VONIXX",
+            "Endereco": "Av. Paulino Muller, 34",
+            "Tel": "2732258223",
+            "Site": "https://www.google.com/maps/place/VITOFITAS+DISTRIBUIDOR+3M+e+VONIXX/data=!4m7!3m6!1s0xb817fc902fb709:0x6b2f2eb336b1aac4!8m2!3d-20.3125464!4d-40.3202583!16s%2Fg%2F1tfzt4n_!19sChIJCbcvkPwXuAARxKqxNrMuL2s?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "AutoMotiva",
+            "Endereco": "R. Antônio Aleixo, 712",
+            "Tel": "27998553694",
+            "Site": "https://www.google.com/maps/place/AutoMotiva/data=!4m7!3m6!1s0xb83dbfce2e93ed:0x2770294ea39aea5e!8m2!3d-20.308694!4d-40.3135614!16s%2Fg%2F11j7vcv15n!19sChIJ7ZMuzr89uAARXuqao04pcCc?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Serv Limp Serviços",
+            "Endereco": "R. Alberto de Oliveira Santos, 59 - Sala 515",
+            "Tel": "2733326148",
+            "Site": "https://www.google.com/maps/place/Serv+Limp+Servi%C3%A7os/data=!4m7!3m6!1s0xb83c52f61a7ba1:0xbf0f0f54960d837!8m2!3d-20.3205488!4d-40.3322696!16s%2Fg%2F1tjs65cx!19sChIJoXsa9lI8uAARN9hgSfXw8As?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Dry Cleaning",
+            "Endereco": "Av. Jurema Barroso",
+            "Tel": "27997113051",
+            "Site": "https://www.google.com/maps/place/Dry+Cleaning/data=!4m7!3m6!1s0xb83d7815588485:0xa58d25ac9d2fb1a6!8m2!3d-20.3238605!4d-40.3477414!16s%2Fg%2F11fr5dq7wy!19sChIJhYRYFXg9uAARprEvnawljaU?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Coleta Waste Management | Coleta de Resíduos, Gerenciamento, Limpezas, Transporte e Descarte",
+            "Endereco": "R. José Farias, 160",
+            "Tel": "2733287001",
+            "Site": "http://www.coletaambiental.com.br/",
+            "emails": [
+                  "contato@coletaambiental.com.br"
+            ]
+      },
+      {
+            "Nome": "Vixparts Carcare",
+            "Endereco": "Av. Vitória, 1866",
+            "Tel": "27992783968",
+            "Site": "https://www.google.com/maps/place/Vixparts+Carcare/data=!4m7!3m6!1s0xb83dad9595f795:0xfe3fed305b49daf0!8m2!3d-20.3113705!4d-40.3176878!16s%2Fg%2F11s9k3s8jk!19sChIJlfeVla09uAAR8NpJWzDtP_4?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Jan-Pro Regional Vitória | Serviços de Limpeza Comercial e Desinfecção",
+            "Endereco": "R. Cel. Sodré, 891",
+            "Tel": "2735347533",
+            "Site": "http://www.jan-pro.com.br/",
+            "emails": []
+      },
+      {
+            "Nome": "Lava Jato Stop Car",
+            "Endereco": "R. Carlos Romero Marangoni, 19",
+            "Tel": "27995794191",
+            "Site": "https://www.google.com/maps/place/Lava+Jato+Stop+Car/data=!4m7!3m6!1s0xb819f6425dcbad:0xd9aae6742e16d707!8m2!3d-20.2571033!4d-40.2628067!16s%2Fg%2F11t0t1n7hn!19sChIJrctdQvYZuAARB9cWLnTmqtk?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "PORTOLIMPE",
+            "Endereco": "R. Henrique Novaes, 88 - 605",
+            "Tel": "27995223659",
+            "Site": "https://www.google.com/maps/place/PORTOLIMPE/data=!4m7!3m6!1s0xb83d4e5bf96563:0x690d4f01d75f9072!8m2!3d-20.3189052!4d-40.3291952!16s%2Fg%2F11g1fb9j0s!19sChIJY2X5W049uAARcpBf1wFPDWk?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Vitória lava Car",
+            "Endereco": "R. Pedro Zangrande, 788",
+            "Tel": "27999559428",
+            "Site": "https://www.google.com/maps/place/Vit%C3%B3ria+lava+Car/data=!4m7!3m6!1s0xb8198536efac2f:0xe93d0df45b3f24f7!8m2!3d-20.2167264!4d-40.2667104!16s%2Fg%2F11l2kpbjsm!19sChIJL6zvNoUZuAAR9yQ_W_QNPek?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Lavanderia 5ÀSEC | Bento Ferreira",
+            "Endereco": "Rua, Av. Carlos Moreira Lima, 301 - Loja 2",
+            "Tel": "2732392989",
+            "Site": "https://api.whatsapp.com/send?phone=5527996547714&text=Oi!%20Vi%20sua%20loja%20no%20Google%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.",
+            "emails": []
+      },
+      {
+            "Nome": "A Utilitária (comércio de produtos para condomínios)",
+            "Endereco": "Av. Nossa Sra. da Penha, 1338",
+            "Tel": "2733760141",
+            "Site": "http://www.autilitaria.com.br/",
+            "emails": [
+                  "micah@micahrich.com"
+            ]
+      },
+      {
+            "Nome": "Patt Lavanderia",
+            "Endereco": "R. Wilsom de Oliveira Guimarães, 33",
+            "Tel": "2732336058",
+            "Site": "https://www.google.com/maps/place/Patt+Lavanderia/data=!4m7!3m6!1s0xb83d6b9b09b283:0xe8bcb39d2b75baa2!8m2!3d-20.2978705!4d-40.3251927!16s%2Fg%2F1tf7ntjz!19sChIJg7IJm2s9uAARorp1K52zvOg?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Step Wash estética automotiva",
+            "Endereco": "Rua Municipal, 90",
+            "Tel": "27996393773",
+            "Site": "https://www.google.com/maps/place/Step+Wash+est%C3%A9tica+automotiva/data=!4m7!3m6!1s0xb83d0e02b6bc21:0x282377108fefcbc3!8m2!3d-20.3446959!4d-40.3461562!16s%2Fg%2F11ssvjp9nn!19sChIJIby2Ag49uAARw8vvjxB3Iyg?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Masterclean",
+            "Endereco": "Av. Paulino Muller, 436",
+            "Tel": "2733243673",
+            "Site": "https://www.google.com/maps/place/Masterclean/data=!4m7!3m6!1s0xb83d779684afd5:0x211a4b574499e83!8m2!3d-20.3139204!4d-40.3200827!16s%2Fg%2F1v_vv3_z!19sChIJ1a-Elnc9uAARg55JdLWkEQI?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Trade Serviços",
+            "Endereco": "Ed. Martinho de Freitas - Av. Princesa Isabel, 15 - Sala 1801",
+            "Tel": "2734421548",
+            "Site": "http://instagran.com/trade_servicos/",
+            "emails": []
+      },
+      {
+            "Nome": "Jsb prestacao de serviços",
+            "Endereco": "R. Dalmácio Sodré, 14",
+            "Tel": "27998114556",
+            "Site": "https://www.google.com/maps/place/Jsb+prestacao+de+servi%C3%A7os/data=!4m7!3m6!1s0xb83dad65cf06ed:0xd317c80c4d8f3de5!8m2!3d-20.3140759!4d-40.3484493!16s%2Fg%2F11fmq0q5yl!19sChIJ7QbPZa09uAAR5T2PTQzIF9M?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Azul Anil Piscinas",
+            "Endereco": "Rua dos Miosótis, 1",
+            "Tel": "27999988203",
+            "Site": "https://www.google.com/maps/place/Azul+Anil+Piscinas/data=!4m7!3m6!1s0xb83d7321caf6ef:0x7261274811bb46c0!8m2!3d-20.2957261!4d-40.3401086!16s%2Fg%2F11h7fy8wzd!19sChIJ7_bKIXM9uAARwEa7EUgnYXI?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Dedetizadora PET INSETOS - Controle de Pragas",
+            "Endereco": "R. Antônio Aleixo, 216",
+            "Tel": "2733243366",
+            "Site": "http://petinsetos.com.br/",
+            "emails": [
+                  "petinsetos@petinsetos.com.br"
+            ]
+      },
+      {
+            "Nome": "LIMPO27",
+            "Endereco": "Rua jussara rodrigues lorenzutti 05",
+            "Tel": "27999846777",
+            "Site": "http://www.limpezadesofavilavelha.com.br/",
+            "emails": [
+                  "contato@limpezadesofavilavelha.com.br"
+            ]
+      },
+      {
+            "Nome": "BioVix Soluções em Controle de Pragas",
+            "Endereco": "Rua: da Gávea, 64",
+            "Tel": "27997241268",
+            "Site": "https://l.instagram.com/?u=https://bit.ly/3fxuMfh&e=ATPA1OjL0sDDownKae8gdOKY4Ne-OTlTzsXi07oADXd3QqnzQdSd9R3llr4k2AEmbfTng5869vdg3NpRv6wlzQ&s=1",
+            "emails": []
+      },
+      {
+            "Nome": "Lavanderia Deus e fiel LTDA",
+            "Endereco": "R. Gama Rosa, 216",
+            "Tel": "27997816161",
+            "Site": "https://www.google.com/maps/place/Lavanderia+Deus+e+fiel+LTDA/data=!4m7!3m6!1s0xb83da53d9cac47:0x60fa126dcfb62cc4!8m2!3d-20.3188758!4d-40.3383891!16s%2Fg%2F1v8x3ffp!19sChIJR6ycPaU9uAARxCy2z20S-mA?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "TWM - Comércio e Representações",
+            "Endereco": "R. Maria de Lourdes García, 1360",
+            "Tel": "2735001400",
+            "Site": "https://www.google.com/maps/place/TWM+-+Com%C3%A9rcio+e+Representa%C3%A7%C3%B5es/data=!4m7!3m6!1s0xb83d79a063e001:0x7dab332e1a9a8140!8m2!3d-20.3124372!4d-40.3167085!16s%2Fg%2F1tfhhnd1!19sChIJAeBjoHk9uAARQIGaGi4zq30?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Lider Saneamento",
+            "Endereco": "Av. Dário Lourenço de Souza, 310",
+            "Tel": "2732331334",
+            "Site": "http://lidersaneamento.com.br/",
+            "emails": []
+      },
+      {
+            "Nome": "Proport",
+            "Endereco": "R. Henrique Novaes, 88",
+            "Tel": "2733911048",
+            "Site": "http://www.proport.com.br/contatos/",
+            "emails": [
+                  "comercial@proport.com.br",
+                  "all@proport.com.br"
+            ]
+      },
+      {
+            "Nome": "Empresa de portaria Vitória ES",
+            "Endereco": "Av. Jerônimo Monteiro",
+            "Tel": "2730355355",
+            "Site": "http://www.vitoriacenter.com.br/",
+            "emails": []
+      },
+      {
+            "Nome": "Hidrobrasil Saneamento e Limpeza Industrial",
+            "Endereco": "Companhia de saneamento",
+            "Tel": "2732331334",
+            "Site": "https://www.google.com/maps/place/Hidrobrasil+Saneamento+e+Limpeza+Industrial/data=!4m7!3m6!1s0xb83c4f0ed54951:0xc81c17c785bd113f!8m2!3d-20.3179108!4d-40.3577858!16s%2Fg%2F1thn6rvn!19sChIJUUnVDk88uAARPxG9hccXHMg?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "BC Higienização",
+            "Endereco": "Rua Jundiaí, Garagem, 01",
+            "Tel": "27999405834",
+            "Site": "https://www.instagram.com/bc_higienizacao/",
+            "emails": []
+      },
+      {
+            "Nome": "5s Clean",
+            "Endereco": "Av. Jerônimo Monteiro, 608",
+            "Tel": "2730750422",
+            "Site": "https://www.5sclean.com.br/",
+            "emails": [
+                  "adm5sclean@hotmail.com"
+            ]
+      },
+      {
+            "Nome": "Vitória ES",
+            "Endereco": "R. Ariosto da Silva Santos",
+            "Site": "https://www.google.com/maps/place/Vit%C3%B3ria+ES/data=!4m7!3m6!1s0xb83d6425239e27:0xda5bcbcc0973d881!8m2!3d-20.313319!4d-40.3494898!16s%2Fg%2F11k3gncv3z!19sChIJJ54jJWQ9uAARgdhzCczLW9o?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Starhig - Limpeza de caixas d'água, dedetização e serviços para o seu lar",
+            "Endereco": "Av. Jerônimo Monteiro, 518",
+            "Tel": "27998185415",
+            "Site": "https://www.instagram.com/starhig.limpeza/",
+            "emails": []
+      },
+      {
+            "Nome": "Limpo.ai Unidade Vila Velha - ES",
+            "Endereco": "R. Domingos Martins, 318",
+            "Tel": "27997500801",
+            "Site": "https://help-derson-higienizacao.negocio.site/?utm_source=gmb&utm_medium=referral",
+            "emails": []
+      },
+      {
+            "Nome": "Fortal SERVIÇOS",
+            "Endereco": "Neighborhood - R. Francisco Rubim, 241 C",
+            "Tel": "27997647453",
+            "Site": "https://www.google.com/maps/place/Fortal+SERVI%C3%87OS/data=!4m7!3m6!1s0xb817d66fcb04d1:0xd868f1003bc0c48c!8m2!3d-20.3132346!4d-40.3071001!16s%2Fg%2F11y1yvqs6f!19sChIJ0QTLb9YXuAARjMTAOwDxaNg?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Esteticarj Zero27",
+            "Endereco": "Curtain and upholstery cleaning service",
+            "Tel": "27999707037",
+            "Site": "https://www.google.com/maps/place/Esteticarj+Zero27/data=!4m7!3m6!1s0xa1e49ee11d33a41d:0xfb34dedf04baca73!8m2!3d-20.284532!4d-40.3285471!16s%2Fg%2F11q9m8qc50!19sChIJHaQzHeGe5KERc8q6BN_eNPs?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "LAVANDERIA FORTAL",
+            "Endereco": "R. Francisco Rubim, 241 - C",
+            "Tel": "27997647453",
+            "Site": "http://lavanderiafortal.com.br/",
+            "emails": [
+                  "fortecleanserv@hotmail.com",
+                  "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+                  "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+            ]
+      },
+      {
+            "Nome": "JR Limpus",
+            "Endereco": "J R Distribuidora - Av. América, 16",
+            "Tel": "2732268681",
+            "Site": "http://www.jrlimpus.com.br/",
+            "emails": [
+                  "contato@jrlimpus.com.br"
+            ]
+      },
+      {
+            "Nome": "Sandra diarista",
+            "Endereco": "R. José Machado",
+            "Tel": "27998692819",
+            "Site": "https://www.google.com/maps/place/Sandra+diarista/data=!4m7!3m6!1s0xb83d474e457769:0x58f9de81b08e8d9a!8m2!3d-20.2946741!4d-40.323765!16s%2Fg%2F11h5vlyrgf!19sChIJaXdFTkc9uAARmo2OsIHe-Vg?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "Mg Lavanderia",
+            "Endereco": "Rua Pedro Botti, 100",
+            "Tel": "2732234066",
+            "Site": "https://www.google.com/maps/place/Mg+Lavanderia/data=!4m7!3m6!1s0xb83d63547e26fd:0x894d86e4d8210dca!8m2!3d-20.3071655!4d-40.3133693!16s%2Fg%2F1tfg4bg8!19sChIJ_SZ-VGM9uAARyg0h2OSGTYk?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "VitoriaGatti Vigilância e Segurança",
+            "Endereco": "R. José Mazoco, 62",
+            "Tel": "2730194006",
+            "Site": "http://www.vitoriagatti.com.br/",
+            "emails": [
+                  "comercial@vitoriagatti.com.br"
+            ]
+      },
+      {
+            "Nome": "Perfumar",
+            "Endereco": "Fornecedor de produtos de limpeza",
+            "Tel": "27992052860",
+            "Site": "https://www.google.com/maps/place/Perfumar/data=!4m7!3m6!1s0xb83db3e919f3ff:0xea76d37c923bcd1c!8m2!3d-20.3195807!4d-40.3384725!16s%2Fg%2F11k4ydlzm4!19sChIJ__MZ6bM9uAARHM07knzTduo?authuser=0&hl=pt-BR&rclk=1"
+      },
+      {
+            "Nome": "R Serviços - Limp Coifas e Dutos",
+            "Endereco": "Aberto 24 horas",
+            "Site": "https://instagram.com/rservicoses?igshid=1b7adptm47ml",
+            "emails": []
+      }
+]

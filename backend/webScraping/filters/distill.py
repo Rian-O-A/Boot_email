@@ -1,8 +1,10 @@
+from backend.webScraping.scripts.empresasEmails import buscar_email
+
 class DataFormatter:
     def __init__(self):
         self.listName = []
 
-    def format_data(self, item):
+    def _format_data(self, item):
         formatted_data = {"Nome": item[0]}
         
         if len(item) == 3:
@@ -26,9 +28,10 @@ class DataFormatter:
     def process_data(self, dataList):
         for item in dataList:
             if len(item) in (3, 4) and item[-1] is not None:
-                self.format_data(item)
+                self._format_data(item)
 
-        return self.listName
+        
+        return buscar_email(self.listName)
 
                     
             

@@ -11,26 +11,24 @@ def is_valid_email(email):
     return re.match(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b", email)
 
 def limpar_emails(empresa_email):
-    empresas_filtradas = {}
+    empresas_filtradas = []
     
-    for empresa, emails in empresa_email.items():
-        emails_filtrados = [email for email in emails if is_valid_email(email)]
-        
-        if emails_filtrados:
-            empresas_filtradas[empresa] = emails_filtrados
+    for email in empresa_email:
+        if  is_valid_email(email):
+            empresas_filtradas.append(email)
     
     return empresas_filtradas
 
 
 def buscar_email(organizado):
     logging.basicConfig(filename='email_extraction.log', level=logging.INFO)
-    empresa_email = {}
+    empresa_email = []
 
     for data in organizado:
         link = data.get("Site")
         nome = data.get("Nome")
 
-        if link is not None:
+        if link is not None and "https://www.google.com/maps/place/" not in link:
             try:
                 response = requests.get(link, headers={"User-Agent": userAgent}, timeout=30)
                 response.raise_for_status()
@@ -40,17 +38,24 @@ def buscar_email(organizado):
                 search = re.findall(r'[\w\-.]+@[\w\-]+\.\w+\.?\w*', html)
 
                 if search:
-                    unique_emails = set(search)
-                    empresa_email[nome] = list(unique_emails)
+                    data["emails"] = limpar_emails(list(set(search)))
+                    
                 else:
+                    data["emails"] = []
                     logging.info(f"Sem e-mails encontrados para {nome}")
+                    
+                
 
             except requests.exceptions.RequestException as e:
                 logging.error(f"Falha ao fazer a requisição para {link}: {str(e)}")
             except Exception as e:
                 logging.error(f"Erro ao processar {nome}: {str(e)}")
 
-    return limpar_emails(empresa_email)
+        empresa_email.append(data)
+    
+
+        
+    return empresa_email
 
 
 

@@ -1,0 +1,402 @@
+[
+      {
+            "cnpj": "86303426000130",
+            "cnpj_raiz": "86303426",
+            "filial_numero": 1,
+            "razao_social": "ADELSON DA SILVA OLIVEIRA 07680292795",
+            "nome_fantasia": "OLIVEIRA SERVICOS",
+            "data_abertura": "2020-06-24T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "EST DO SALGUEIRO",
+            "numero": "195",
+            "bairro": "TINGUA",
+            "municipio": "NOVA IGUACU",
+            "uf": "RJ",
+            "atividade_principal": {
+                  "codigo": "5229099",
+                  "descricao": "Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "79561737000133",
+            "cnpj_raiz": "79561737",
+            "filial_numero": 1,
+            "razao_social": "CAPSULA SERVICOS DE CONSULTORIA EM NEGOCIOS LTDA",
+            "nome_fantasia": "",
+            "data_abertura": "2020-06-23T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R GENERAL RONDON",
+            "numero": "720",
+            "bairro": "TRISTEZA",
+            "municipio": "PORTO ALEGRE",
+            "uf": "RS",
+            "atividade_principal": {
+                  "codigo": "6822600",
+                  "descricao": "Gestão e administração da propriedade imobiliária"
+            },
+            "cnpj_mei": false,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "63230349000130",
+            "cnpj_raiz": "63230349",
+            "filial_numero": 1,
+            "razao_social": "RHUANA CAROLINE VERAS DE LIRA 05071700328",
+            "nome_fantasia": "EMPORIO MULTIMARCAS",
+            "data_abertura": "2020-08-21T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "AV BARAO DE CASTELO BRANCO",
+            "numero": "300",
+            "bairro": "CIDADE NOVA",
+            "municipio": "TERESINA",
+            "uf": "PI",
+            "atividade_principal": {
+                  "codigo": "4781400",
+                  "descricao": "Comércio varejista de artigos do vestuário e acessórios"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "68571069000109",
+            "cnpj_raiz": "68571069",
+            "filial_numero": 1,
+            "razao_social": "WELLINGTON CASTRO DIAS 05602933301",
+            "nome_fantasia": "TOM SERVICOS",
+            "data_abertura": "2021-06-10T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R FRECHEIRINHA",
+            "numero": "251",
+            "bairro": "PARQUELANDIA",
+            "municipio": "FORTALEZA",
+            "uf": "CE",
+            "atividade_principal": {
+                  "codigo": "4330404",
+                  "descricao": "Serviços de pintura de edifícios em geral"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97698043000124",
+            "cnpj_raiz": "97698043",
+            "filial_numero": 1,
+            "razao_social": "MATHEUS RODRIGUES DA COSTA 70840373490",
+            "nome_fantasia": "",
+            "data_abertura": "2018-10-30T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R CAPOTE VALENTE",
+            "numero": "234",
+            "bairro": "PINHEIROS",
+            "municipio": "SAO PAULO",
+            "uf": "SP",
+            "atividade_principal": {
+                  "codigo": "7420001",
+                  "descricao": "Atividades de produção de fotografias, exceto aérea e submarina"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97739386000190",
+            "cnpj_raiz": "97739386",
+            "filial_numero": 1,
+            "razao_social": "JOSE BENEDITO VIEIRA JUNIOR 33239534878",
+            "nome_fantasia": "FBD AUTOMACAO",
+            "data_abertura": "2018-10-31T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R BERNARDINO DE CAMARGO REIS",
+            "numero": "316",
+            "bairro": "BRIGADEIRO TOBIAS",
+            "municipio": "SOROCABA",
+            "uf": "SP",
+            "atividade_principal": {
+                  "codigo": "3321000",
+                  "descricao": "Instalação de máquinas e equipamentos industriais"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97719448000100",
+            "cnpj_raiz": "97719448",
+            "filial_numero": 1,
+            "razao_social": "RBB COMERCIO DE COLCHOES LTDA",
+            "nome_fantasia": "",
+            "data_abertura": "2018-10-31T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R SAO JOSE",
+            "numero": "900",
+            "bairro": "CENTRO (TUPI)",
+            "municipio": "PIRACICABA",
+            "uf": "SP",
+            "atividade_principal": {
+                  "codigo": "4754702",
+                  "descricao": "Comércio varejista de artigos de colchoaria"
+            },
+            "cnpj_mei": false,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97057736000138",
+            "cnpj_raiz": "97057736",
+            "filial_numero": 1,
+            "razao_social": "JOAO OLIVEIRA DA CRUZ JUNIOR 02271752558",
+            "nome_fantasia": "JUNIOR MOTO PECAS",
+            "data_abertura": "2011-11-28T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R Junqueira  Freire",
+            "numero": "142",
+            "bairro": "CENTRO",
+            "municipio": "SATIRO DIAS",
+            "uf": "BA",
+            "atividade_principal": {
+                  "codigo": "4541205",
+                  "descricao": "Comércio a varejo de peças e acessórios para motocicletas e motonetas"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97167998000155",
+            "cnpj_raiz": "97167998",
+            "filial_numero": 1,
+            "razao_social": "CARLOS ALEXANDRE SILVA DE MORAIS 07686020410",
+            "nome_fantasia": "ALEXANDRERITZ",
+            "data_abertura": "2018-08-07T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "EST DA PEDRA",
+            "numero": "110",
+            "bairro": "GUARATIBA",
+            "municipio": "RIO DE JANEIRO",
+            "uf": "RJ",
+            "atividade_principal": {
+                  "codigo": "",
+                  "descricao": ""
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "32248258000106",
+            "cnpj_raiz": "32248258",
+            "filial_numero": 1,
+            "razao_social": "FERNANDA SPADA VILLAR",
+            "nome_fantasia": "",
+            "data_abertura": "2019-02-27T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R OSCAR FREIRE",
+            "numero": "1667",
+            "bairro": "PINHEIROS",
+            "municipio": "SAO PAULO",
+            "uf": "SP",
+            "atividade_principal": {
+                  "codigo": "7112000",
+                  "descricao": "Serviços de engenharia"
+            },
+            "cnpj_mei": false,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97008870000149",
+            "cnpj_raiz": "97008870",
+            "filial_numero": 1,
+            "razao_social": "MARCIA FERREIRA SANTOS DE MOURA 11108041647",
+            "nome_fantasia": "",
+            "data_abertura": "2018-11-19T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "AV WENCESLAU BRAZ",
+            "numero": "900",
+            "bairro": "SANTA RITA",
+            "municipio": "GOVERNADOR VALADARES",
+            "uf": "MG",
+            "atividade_principal": {
+                  "codigo": "4781400",
+                  "descricao": "Comércio varejista de artigos do vestuário e acessórios"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97686067000163",
+            "cnpj_raiz": "97686067",
+            "filial_numero": 1,
+            "razao_social": "PAULO BLOMKER DE SOUZA 39761002004",
+            "nome_fantasia": "MERCADO SOUZA",
+            "data_abertura": "2018-09-18T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R DAS INDUSTRIAS",
+            "numero": "19",
+            "bairro": "CENTRO",
+            "municipio": "FAZENDA VILANOVA",
+            "uf": "RS",
+            "atividade_principal": {
+                  "codigo": "4723700",
+                  "descricao": "Comércio varejista de bebidas"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97485271000116",
+            "cnpj_raiz": "97485271",
+            "filial_numero": 1,
+            "razao_social": "IRMES TOURS VIAGENS E TURISMO LTDA",
+            "nome_fantasia": "",
+            "data_abertura": "1987-01-08T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R SETE DE SETEMBRO",
+            "numero": "98",
+            "bairro": "CENTRO",
+            "municipio": "RIO DE JANEIRO",
+            "uf": "RJ",
+            "atividade_principal": {
+                  "codigo": "7911200",
+                  "descricao": "Agências de viagens"
+            },
+            "cnpj_mei": false,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97199068000183",
+            "cnpj_raiz": "97199068",
+            "filial_numero": 1,
+            "razao_social": "FABRICIO DIAS SOARES 09165545621",
+            "nome_fantasia": "",
+            "data_abertura": "2018-10-31T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R TRINTA E DOIS",
+            "numero": "148",
+            "bairro": "ALTO DA BOA VISTA",
+            "municipio": "MONTES CLAROS",
+            "uf": "MG",
+            "atividade_principal": {
+                  "codigo": "2599301",
+                  "descricao": "Serviços de confecção de armações metálicas para a construção"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97847910000146",
+            "cnpj_raiz": "97847910",
+            "filial_numero": 1,
+            "razao_social": "GILVANDO SOARES DA SILVA PADARIA",
+            "nome_fantasia": "PADARIA FLOR DE CANGAIBA",
+            "data_abertura": "2016-02-25T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "AV CANGAIBA",
+            "numero": "1792",
+            "bairro": "CANGAIBA",
+            "municipio": "SAO PAULO",
+            "uf": "SP",
+            "atividade_principal": {
+                  "codigo": "4721102",
+                  "descricao": "Padaria e confeitaria com predominância de revenda"
+            },
+            "cnpj_mei": false,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97657957000147",
+            "cnpj_raiz": "97657957",
+            "filial_numero": 1,
+            "razao_social": "VIVIANE SILVA RIBEIRO 02846521484",
+            "nome_fantasia": "DE GRAO EM GRAO ALIMENTOS",
+            "data_abertura": "2018-10-29T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R B-59 (CJ BENEDITO BENTES)",
+            "numero": "104",
+            "bairro": "BENEDITO BENTES",
+            "municipio": "MACEIO",
+            "uf": "AL",
+            "atividade_principal": {
+                  "codigo": "4729699",
+                  "descricao": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "32898272000147",
+            "cnpj_raiz": "32898272",
+            "filial_numero": 1,
+            "razao_social": "MARIA LUZINETE DA FONSECA",
+            "nome_fantasia": "",
+            "data_abertura": "2003-09-09T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R COSTA REGO",
+            "numero": "82",
+            "bairro": "VILA SOA JORGE",
+            "municipio": "SAO VICENTE",
+            "uf": "SP",
+            "atividade_principal": {
+                  "codigo": "5611203",
+                  "descricao": "Lanchonetes, casas de chá, de sucos e similares"
+            },
+            "cnpj_mei": false,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97885793000105",
+            "cnpj_raiz": "97885793",
+            "filial_numero": 1,
+            "razao_social": "SK SUPERMERCADOS LTDA",
+            "nome_fantasia": "",
+            "data_abertura": "2012-12-26T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R ZEFERINO VAISSET",
+            "numero": "08",
+            "bairro": "JARDIM JULIANA",
+            "municipio": "MOGI DAS CRUZES",
+            "uf": "SP",
+            "atividade_principal": {
+                  "codigo": "",
+                  "descricao": ""
+            },
+            "cnpj_mei": false,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97146463000106",
+            "cnpj_raiz": "97146463",
+            "filial_numero": 1,
+            "razao_social": "LAIS LIE SATO 29605014890",
+            "nome_fantasia": "LAIS SATO",
+            "data_abertura": "2018-10-24T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "R ATIBAIA",
+            "numero": "159",
+            "bairro": "BAETA NEVES",
+            "municipio": "SAO BERNARDO DO CAMPO",
+            "uf": "SP",
+            "atividade_principal": {
+                  "codigo": "9602501",
+                  "descricao": "Cabeleireiros, manicure e pedicure"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      },
+      {
+            "cnpj": "97117084000180",
+            "cnpj_raiz": "97117084",
+            "filial_numero": 1,
+            "razao_social": "RITA DE CASSIA PIMENTEL SEREJO 35768436120",
+            "nome_fantasia": "RC DOCERIA E CONFEITARIA",
+            "data_abertura": "2018-08-20T00:00:00Z",
+            "situacao_cadastral": "ATIVA",
+            "logradouro": "Q QE 46 AREA ESPECIAL 3",
+            "numero": "605 D",
+            "bairro": "GUARA II",
+            "municipio": "BRASILIA",
+            "uf": "DF",
+            "atividade_principal": {
+                  "codigo": "5620104",
+                  "descricao": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+            },
+            "cnpj_mei": true,
+            "versao": "v2"
+      }
+]
