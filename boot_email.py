@@ -12,7 +12,7 @@ def enviar_email(dest):
     msg['Subject'] = "Teste automatizado em massa!"
     msg['From'] = 'devshell.technology@gmail.com'
     msg['To'] = dest
-    password = 'znilytkedkxlvmog'
+    password = 'your_password'
     msg.add_header('Content-Type', 'text/html')
     msg.set_payload(corpo_email)
 
