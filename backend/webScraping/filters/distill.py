@@ -1,4 +1,4 @@
-from backend.webScraping.scripts.empresasEmails import buscar_email
+from backend.webScraping.source.webContact import buscar_email
 
 class DataFormatter:
     def __init__(self):

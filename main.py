@@ -1,21 +1,17 @@
+
 import json
-from backend.webScraping.scripts.empresasMaps import pesquisarEmpresas
-# from backend.webScraping.empresasEmails import startEmail
-from backend.webScraping.filters.distill import DataFormatter
-# from backend.fireBase.manager import Firestore
 
-json.dump(DataFormatter().process_data(pesquisarEmpresas("Limpeza de automoveis vitoria", 17)), open("condominios.json", 'w', encoding="UTF-8"), indent=6, ensure_ascii=False)
-# DataFormatter().process_data(pesquisarEmpresas("Empresa de fabricação de exportação em vitoria", 17))
-# empresas = {}
-# pesquisa = [
-#       "Empresa de fabricação de plástico em vitoria",
-#       "Empresa de fabricação de plástico em vila velha",
-#       "Empresa de fabricação de plástico em guarapari"
-#     ]
+from backend.webScraping.source.googleMaps import fetch_business_data
 
-# for empresa in pesquisa:
-#     try:
-#          empresas[empresa] = DataFormatter().process_data(pesquisarEmpresas(empresa, 17))
-#     except:
-#             print("Não deu")
-# Firestore.setPack(empresas)
+if __name__ == "__main__":
+    search_query = "Restaurante em Guarapari"
+    scroll_limit = 4
+
+    # Fetch business data
+    business_results = fetch_business_data(search_query, scroll_limit)
+
+    # Save results to a JSON file
+    with open("business_data.json", "w", encoding="UTF-8") as file:
+        json.dump(business_results, file, indent=6, ensure_ascii=False)
+
+    print("Process completed. Results saved in 'business_data.json'.")
